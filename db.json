@@ -1,0 +1,74 @@
+{
+  "Clientes": [
+    {
+      "id": 1,
+      "Nome": "Euridyce",
+      "Nascimento": "2000/04/08",
+      "email": "euridyce@hotmail.com"
+    },
+    {
+      "Nome": "Jardiel Carlos",
+      "Nascimento": "2002/06/16",
+      "email": "jardielcarlos@hotmail.com",
+      "id": 2
+    },
+    {
+      "Nome": "Lília",
+      "Nascimento": "2001/04/26",
+      "email": "lilia@hotmail.com",
+      "id": 3
+    }
+  ],
+  "Fornecedores": [
+    {
+      "Produto": "feijão carioca",
+      "Quantidade": "20",
+      "Marca": "Tio João",
+      "id": 2
+    }
+  ],
+  "Delivery": [
+    {
+      "Quantidade de entregas": "7",
+      "Cidade": "Guarabira",
+      "Quantidade de entregadores": "3",
+      "id": 1
+    },
+    {
+      "Quantidade de entregas": "4",
+      "Cidade": "Alagoa Grande",
+      "Quantidade de entregadores": "2",
+      "id": 2
+    },
+    {
+      "Quantidade de entregas": "6",
+      "Cidade": "Alagoa Grande",
+      "Quantidade de entregadores": "2",
+      "id": 3
+    }
+  ],
+  "Entregadores": [
+    {
+      "Nome": "Fábia",
+      "cpf": "091.948.284-89",
+      "Salário": "1.424,00",
+      "id": 1
+    },
+    [null, null],
+    [null, null],
+    [
+      {
+        "Nome": "Ênio",
+        "cpf": "091.432.284-89",
+        "Salário": "1.424,00",
+        "id": 3
+      },
+      {
+        "Nome": "Joalison",
+        "cpf": "061.432.284-81",
+        "Salário": "1.424,00",
+        "id": 4
+      }
+    ]
+  ]
+}

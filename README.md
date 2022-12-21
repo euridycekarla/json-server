@@ -1,0 +1,2 @@
+<h2>Json Server</h2><br>
+<h3>Atividade de programação web I, de json server. Contém os arquivos db.json e a o export da interface Insomnia,utilizado para fazer as requisições HTTp com os métodos get,post,put e delete. </h3>
